@@ -25,6 +25,10 @@ Load RDF triples of various formats into MarkLogic.
 
    Note: As of this writing, the MarkLogic REST API (and therefore this project) can only load triples in the N-Quads (.nq) and TriG (.trig) formats.
 
-5. To undo the setup step and start over:
+5. Read the loaded triples:
+
+   ```node read```
+
+6. To undo the setup step and start over:
 
    ```node teardown```
