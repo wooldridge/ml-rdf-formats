@@ -13,6 +13,7 @@
   },
   "homepage": "https://github.com/wooldridge/ml-rdf-formats",
   "dependencies": {
+    "marklogic": "^1.0.5",
     "request-promise": "^3.0.0"
   }
 }
