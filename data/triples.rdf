@@ -1,0 +1,12 @@
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dbr="http://dbpedia.org/resource/"
+  xmlns:dbo="http://dbpedia.org/ontology/"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Barack_Obama">
+    <dbo:birthDate rdf:datatype="xsd:date">1961-08-04</dbo:birthDate>
+    <dbo:birthPlace rdf:datatype="xsd:integer">
+      <rdf:Description rdf:about="http://dbpedia.org/resource/Hawaii"></rdf:Description>
+    </dbo:birthPlace>
+  </rdf:Description>
+</rdf:RDF>

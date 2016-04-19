@@ -1,0 +1,6 @@
+@prefix dbr: <http://dbpedia.org/resource/> .
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+dbr:Barack_Obama dbo:birthPlace xsd:date "1961-08-04";
+                 dbo:birthPlace dbr:Hawaii .

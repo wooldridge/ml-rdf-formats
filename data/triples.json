@@ -1,0 +1,10 @@
+{ "http://dbpedia.org/resource/Barack_Obama":
+  { "http://dbpedia.org/ontology/birthDate":
+    [ { "value": "1961-08-04",
+        "type": "literal",
+        "datatype": "http://www.w3.org/2001/XMLSchema#date" },
+      { "value": "http://dbpedia.org/resource/Hawaii",
+        "type": "uri" }
+    ]
+  }
+}
