@@ -23,7 +23,7 @@ Load RDF triples of various formats into MarkLogic.
 
    ```node load triples.nq```
 
-   Note: As of this writing, the MarkLogic REST API (and therefore this project) can only load triples in the N-Quads (.nq) and TriG (.trig) formats.
+   Note: As of this writing, the MarkLogic REST API (and therefore this project) can only load triples in the N-Quads (.nq) and TriG (.trig) formats. So only the `triples.nq` and `triples.trig` files will load successfully.
 
 5. Read the loaded triples:
 
